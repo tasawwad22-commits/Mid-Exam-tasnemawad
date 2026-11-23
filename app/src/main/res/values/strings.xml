@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Mid_Exam_tasnem_awad</string>
+    <string name="text_position">1 / 6</string>
+    <string name="mona_lisa">Mona Lisa</string>
+    <string name="artist_mona_lisa">Leonardo da Vinci (1503)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="artwork_image">Artwork image</string>
+    <string name="artwork_details">Artwork Details</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="back_to_main">Back to Main Activity</string>
 </resources>
